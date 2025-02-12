@@ -65,7 +65,7 @@ By leveraging **Odoo ERP** for **Order-to-Cash and Procure-to-Pay processes**, t
 - Integrated **Inventory Management** to sync stock levels.  
 - Tested **Order Processing workflow** (placing orders, payments, and invoicing).  
 
-✅ **Step 9: Document & Present Findings**  
+Step 9: Document & Present Findings**  
 - Created **Demo Documentation** with step-by-step implementation.  
 - Prepared **Final Presentation** summarizing business problems, solutions, and results.  
 
@@ -84,4 +84,4 @@ By leveraging **Odoo ERP** for **Order-to-Cash and Procure-to-Pay processes**, t
 3️⃣ **Check `Project Presentation.pptx`** for a high-level project summary.  
 
 ---
-## This project was developed for academic purposes to explore the implementation of Management Information Systems (MIS) in real-world business operations, utilizing Odoo ERP for process automation and business optimization.
+#### This project was developed for academic purposes to explore the implementation of Management Information Systems (MIS) in real-world business operations, utilizing Odoo ERP for process automation and business optimization.
