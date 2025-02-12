@@ -14,74 +14,74 @@ By leveraging **Odoo ERP** for **Order-to-Cash and Procure-to-Pay processes**, t
 
 ### **Phase 1: Business Process Analysis (Understanding the Business & Operations)**  
 #### Step 1: Research & Understand the Business  
-- Collected details about **Geeland International Grocery** (industry, competitors, market positioning).  
-- Mapped out business goals and operational challenges.  
+  - Collected details about **Geeland International Grocery** (industry, competitors, market positioning).  
+  - Mapped out business goals and operational challenges.  
 
 #### Step 2: Define Business Strategy  
-- Developed a **Business Motivation Model (BMM)** to define vision, mission, and goals.  
-- Created a **Business Model Canvas** to analyze value propositions, customers, and key partners.  
-- Mapped a **Value System Model** to identify core and supporting business activities.  
-- Conducted **Capability Analysis** to assess business strengths and weaknesses.  
+  - Developed a *Business Motivation Model (BMM)* to define vision, mission, and goals.  
+  - Created a *Business Model Canvas* to analyze value propositions, customers, and key partners.  
+  - Mapped a *Value System Model* to identify core and supporting business activities.  
+  - Conducted *Capability Analysis* to assess business strengths and weaknesses.  
 
 #### Step 3: Identify Key Business Processes  
-- Mapped high-level business processes:  
-  - **Order-to-Cash (O2C)** → Sales & customer transactions.  
-  - **Procure-to-Pay (P2P)** → Supplier procurement & inventory management.  
-- Created **Process Map Diagram** and **Business Process Diagram** for structured workflows.  
-- Identified **MIS needs per process** to determine where automation is required.  
+  - Mapped high-level business processes:  
+      - *Order-to-Cash (O2C)* → Sales & customer transactions.  
+      - *Procure-to-Pay (P2P)* → Supplier procurement & inventory management.  
+  - Created *Process Map Diagram* and *Business Process Diagram* for structured workflows.  
+  - Identified *MIS needs per process* to determine where automation is required.  
 
 ---  
 
 ### **Phase 2: Database Design (Structuring Data for Digital Transformation)**  
 #### Step 4: Identify Key Entities & Data Relationships  
-- Defined core entities: **Products, Suppliers, Customers, Transactions, Employees, Orders**.  
-- Created an **Entity Relationship Diagram (ERD)** to visualize data relationships.  
+  - Defined core entities: *Products, Suppliers, Customers, Transactions, Employees, Orders*.  
+  - Created an *Entity Relationship Diagram (ERD)* to visualize data relationships.  
 
 #### Step 5: Design Database Tables 
-- Developed structured tables for efficient data storage.  
-- Ensured **normalization for data consistency and integrity**.  
+  - Developed structured tables for efficient data storage.  
+  - Ensured *normalization for data consistency and integrity*.  
 
 ---  
 
 ### **Phase 3: MIS Selection & Implementation Strategy**  
 #### Step 6: Selection of Management Information Systems (MIS)
-- Evaluated **Odoo ERP** for Order-to-Cash and Procure-to-Pay process automation.  
-- Compared different platforms and justified selection criteria.  
+  - Evaluated **Odoo ERP** for Order-to-Cash and Procure-to-Pay process automation.  
+  - Compared different platforms and justified selection criteria.  
 
 #### Step 7: Identify & Configure MIS Modules 
 
 **Odoo Modules Implemented:**  
-- **Point of Sale (POS)** → Streamlines checkout & payment processing.  
-- **Inventory Management** → Real-time stock tracking & supplier orders.  
-- **Customer Relationship Management (CRM)** → Customer data & loyalty tracking.  
-- **Sales Analytics & Reporting** → Performance tracking & forecasting.  
-- **Invoicing & Payments** → Automates billing & payment tracking.  
+  - **Point of Sale (POS)** → Streamlines checkout & payment processing.  
+  - **Inventory Management** → Real-time stock tracking & supplier orders.  
+  - **Customer Relationship Management (CRM)** → Customer data & loyalty tracking.  
+  - **Sales Analytics & Reporting** → Performance tracking & forecasting.  
+  - **Invoicing & Payments** → Automates billing & payment tracking.  
 
 ---  
 
 ### **Phase 4: Execution & Demo Documentation**  
 #### Step 8: Implement & Test the Odoo ERP System
-- Installed **Odoo** and configured **POS** for grocery operations.  
-- Integrated **Inventory Management** to sync stock levels.  
-- Tested **Order Processing workflow** (placing orders, payments, and invoicing).  
+  - Installed **Odoo** and configured **POS** for grocery operations.  
+  - Integrated **Inventory Management** to sync stock levels.  
+  - Tested **Order Processing workflow** (placing orders, payments, and invoicing).  
 
 #### Step 9: Document & Present Findings
-- Created **Demo Documentation** with step-by-step implementation.  
-- Prepared **Final Presentation** summarizing business problems, solutions, and results.  
+  - Created **Demo Documentation** with step-by-step implementation.  
+  - Prepared **Final Presentation** summarizing business problems, solutions, and results.  
 
 ---  
 
 ## Project Files  
-📜 `Project Proposal.pdf` → Business process analysis, database design, and MIS selection.  
-📜 `Project Documentation.pdf` → Step-by-step execution of Odoo implementation.  
-📜 `Project Presentation.pptx` → Key findings, solutions, and demo overview.  
+  📜 `Project Proposal.pdf` → Business process analysis, database design, and MIS selection.  
+  📜 `Project Documentation.pdf` → Step-by-step execution of Odoo implementation.  
+  📜 `Project Presentation.pptx` → Key findings, solutions, and demo overview.  
 
 ---  
 
 ## How to Use This Repository  
-1️⃣ **Review `Project Proposal.pdf`** for business process analysis and database design.  
-2️⃣ **Explore `Project Documentation.pdf`** for a step-by-step implementation guide.  
-3️⃣ **Check `Project Presentation.pptx`** for a high-level project summary.  
+  1️⃣ **Review `Project Proposal.pdf`** for business process analysis and database design.  
+  2️⃣ **Explore `Project Documentation.pdf`** for a step-by-step implementation guide.  
+  3️⃣ **Check `Project Presentation.pptx`** for a high-level project summary.  
 
 ---
 #### This project was developed as a group project for academic purposes to explore the implementation of Management Information Systems (MIS) in real-world business operations, utilizing Odoo ERP for process automation and business optimization.
